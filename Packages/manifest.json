@@ -42,5 +42,11 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
+  },
+  "lock": {
+    "com.domybest.mybox": {
+      "revision": "HEAD",
+      "hash": "8d92636c3bff3abc34d3554cb1e6296c54ad2899"
+    }
   }
 }
